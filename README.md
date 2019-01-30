@@ -1,8 +1,8 @@
-[➡️ www.webstack.cc](https://webstack.cc) - 网址导航
+[➡️ www.webstack.cc](https://github.com/0877/7/) - 网址导航
 ===
-QQ群交流：304584722
+QQ交流：1020955970
 
-这是一个纯静态的网址导航网站，内容均由[viggo](http://viggoz.com)收集并整理。项目基于bootstrap前端框架开发。
+这是一个纯静态的网址导航网站，内容均由[viggo](https://github.com/0877/7/)收集并整理。项目基于bootstrap前端框架开发。
 
 ![](http://www.webstack.cc/assets/images/preview.gif)
 
